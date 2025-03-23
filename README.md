@@ -30,4 +30,4 @@ Agrupa produtos semelhantes em categorias.
 
 📤 Saída: Uma lista de categorias com a contagem de produtos e detalhes de cada item.
 
-Feito com 💜 por José Kaiqui
+Feito por José Kaiqui
